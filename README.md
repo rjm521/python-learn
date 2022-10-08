@@ -1,3 +1,3 @@
 # python-learn
 
-jimmy learn pythonearn python
+jimmy learn python
